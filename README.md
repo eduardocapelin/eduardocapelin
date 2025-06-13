@@ -31,13 +31,16 @@ Atualmente atuo com:
 ### 📌 Projetos em destaque
 
 - [💸 Coletor de Mensagens Financeiras do Telegram para Excel](https://github.com/eduardocapelin/projeto_financeiro)
+
 Projeto desenvolvido para simplificar o controle financeiro pessoal.
 Basta o usuário enviar uma mensagem com o valor e a descrição do gasto para um canal no Telegram — o sistema coleta automaticamente essas informações e registra em uma planilha Excel organizada, pronta para análise.
 
 - [🏀 Coleta e Análise de Estatísticas da NBA com Python](https://github.com/eduardocapelin/projeto-NBA)
+
 Projeto focado em entender a evolução do arremesso de 3 pontos na NBA. Os dados de jogadores são coletados via API, tratados com pandas e analisados com foco em volume, aproveitamento e tendências históricas dos arremessos de longa distância.
 
 - [📊 Dashboard de Vendas com RLS no Power BI](https://github.com/eduardocapelin/projeto-rolamentos)
+
 Dashboard interativo com visual feito no Figma que permite análises de desempenho regional com filtros dinâmicos e DAX avançado.
 
 
