@@ -30,7 +30,7 @@ Atualmente atuo com:
 
 ### 📌 Projetos em destaque
 
-- [💸 Coletor de Mensagens Financeiras do Telegram para Excel](https://github.com/eduardocapelin/projeto_financeiro)
+- [💸 Coletor de Mensagens Financeiras do Telegram para Excel com Python](https://github.com/eduardocapelin/projeto_financeiro)
 
 Projeto desenvolvido para simplificar o controle financeiro pessoal.
 Basta o usuário enviar uma mensagem com o valor e a descrição do gasto para um canal no Telegram — o sistema coleta automaticamente essas informações e registra em uma planilha Excel organizada, pronta para análise.
