@@ -1,7 +1,5 @@
 # Eduardo Capelin
 
-### Analista de Dados Pleno | SQL • Python • Spark • Power BI • dbt • Airbyte • Snowflake • Microsoft Fabric
-
 Trabalho com **dados de ponta a ponta**: da **extração e integração** (ETL) com múltiplas fontes, passando pela **transformação e modelagem**, até a **visualização final e entrega de insights** via dashboards interativos.
 
 Atualmente atuo com:
@@ -33,23 +31,39 @@ Atualmente atuo com:
 - **Storytelling com dados** e visualizações avançadas  
 - **Data Engineering em larga escala** usando Spark + Fabric  
 - **Boas práticas em arquitetura moderna de dados (Data Lakehouse e Data Mesh)**  
+
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos em Destaque
 
-- [💸 Coletor de Mensagens Financeiras do Telegram para Excel com Python](https://github.com/eduardocapelin/projeto_financeiro)
+#### [🎬 Pipeline de Dados Netflix com Airbyte, dbt, Snowflake, Fabric e Power BI](https://github.com/eduardocapelin/projeto_netflix)
+
+> **Meu projeto mais completo de Data Engineering + Analytics**, cobrindo desde a ingestão até a entrega final de insights.
+
+- **Ingestão:** Airbyte coletando dados da API/CSV para Snowflake (Bronze)  
+- **Transformação:** dbt organizando e padronizando dados (Silver)  
+- **Modelagem:** construção de fato e dimensões em esquema estrela (Gold)  
+- **Visualização:** dashboards interativos no Power BI  
+- **Arquitetura moderna:** uso de Snowflake e Microsoft Fabric como camada de orquestração e governança  
+
+![Arquitetura do Projeto](https://github.com/eduardocapelin/projeto_netflix/blob/342bcb57cd9253e47b8e681a50a858c68dcb7941/docs/arquitetura.png)
+
+---
+
+#### [💸 Coletor de Mensagens Financeiras do Telegram para Excel com Python](https://github.com/eduardocapelin/projeto_financeiro)
 
 Projeto desenvolvido para simplificar o controle financeiro pessoal.
 Basta o usuário enviar uma mensagem com o valor e a descrição do gasto para um canal no Telegram — o sistema coleta automaticamente essas informações e registra em uma planilha Excel organizada, pronta para análise.
 
-- [🏀 Coleta e Análise de Estatísticas da NBA com Python](https://github.com/eduardocapelin/projeto-NBA)
+---
 
-Projeto focado em entender a evolução do arremesso de 3 pontos na NBA. Os dados de jogadores são coletados via API, tratados com pandas e analisados com foco em volume, aproveitamento e tendências históricas dos arremessos de longa distância.
+#### [🏀 Coleta e Análise de Estatísticas da NBA com Python](https://github.com/eduardocapelin/projeto-NBA)
 
-- [📊 Dashboard de Vendas com RLS no Power BI](https://github.com/eduardocapelin/projeto-rolamentos)
+Projeto focado em entender a evolução do arremesso de 3 pontos na NBA.  
+Os dados de jogadores são coletados via API, tratados com pandas e analisados com foco em volume, aproveitamento e tendências históricas dos arremessos de longa distância.
+
+---
+
+#### [📊 Dashboard de Vendas com RLS no Power BI](https://github.com/eduardocapelin/projeto-rolamentos)
 
 Dashboard interativo com visual feito no Figma que permite análises de desempenho regional com filtros dinâmicos e DAX avançado.
-
-
-
-
