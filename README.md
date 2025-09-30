@@ -1,6 +1,6 @@
 # Eduardo Capelin
 
-Trabalho com **dados de ponta a ponta**: da **extração e integração** (ETL) com múltiplas fontes, passando pela **transformação e modelagem**, até a **visualização final e entrega de insights** via dashboards interativos.
+**Analista de Dados Pleno**, trabalho com **dados de ponta a ponta**: da **extração e integração** (ETL) com múltiplas fontes, passando pela **transformação e modelagem**, até a **visualização final e entrega de insights** via dashboards interativos.
 
 Atualmente atuo com:
 - 🔄 Integração de dados via **APIs, bancos relacionais e pipelines em nuvem**
